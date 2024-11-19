@@ -1,0 +1,13 @@
+**Registro de usuarios
+**Número de cuenta y pin de 4 dígitos 
+
+Registro de ruteros
+  Nombre, ruta
+
+Funciones
+  Revisar saldo en línea
+  Revisar boletos comprados en línea 
+  Comprar un boleto o más en línea
+  Comprar un boleto o más en punto de venta
+  Recargar saldo en punto de venta
+  Rutero escanea boleto y resta un uso
